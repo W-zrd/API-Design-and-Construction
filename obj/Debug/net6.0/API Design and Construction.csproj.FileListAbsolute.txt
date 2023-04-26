@@ -1,0 +1,32 @@
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\appsettings.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\API Design and Construction.exe
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\API Design and Construction.deps.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\API Design and Construction.runtimeconfig.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\API Design and Construction.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\API Design and Construction.pdb
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.csproj.AssemblyReference.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.AssemblyInfoInputs.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.AssemblyInfo.cs
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.csproj.CoreCompileInputs.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\staticwebassets\msbuild.API Design and Construction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\staticwebassets\msbuild.build.API Design and Construction.props
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API Design and Construction.props
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API Design and Construction.props
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\scopedcss\bundle\API Design and Construction.styles.css
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.csproj.CopyComplete
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\refint\API Design and Construction.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.pdb
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\API Design and Construction.genruntimeconfig.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\API-Design-and-Construction\obj\Debug\net6.0\ref\API Design and Construction.dll

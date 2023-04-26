@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\API-Design-and-Construction\\API Design and Construction.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\API-Design-and-Construction\\API Design and Construction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\API-Design-and-Construction\\API Design and Construction.csproj",
+        "projectName": "API Design and Construction",
+        "projectPath": "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\API-Design-and-Construction\\API Design and Construction.csproj",
+        "packagesPath": "C:\\Users\\Haikal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\API-Design-and-Construction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Haikal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
